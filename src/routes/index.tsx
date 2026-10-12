@@ -143,7 +143,7 @@ function Index() {
             <div className="animate-rise md:col-span-5 [animation-delay:160ms]">
               <div className="max-w-[68ch] space-y-5 text-lg leading-relaxed">
                 <p>I am a Data Science student at BINUS University who enjoys turning technical experiments into something people can understand and use. My interests include predictive modelling, deep learning, explainable AI, and model deployment. I am especially curious about what happens after a model produces a result: how that result is explained, how someone interacts with it, and whether it helps address the problem that led to the project.</p>
-                <p>This portfolio presents five university projects completed in 2026. The three data science projects explore prediction, image classification, and image generation. The two interface projects gave me space to work with visual storytelling and the details of a user journey. Together, they show how I am developing both the analytical skills to evaluate a solution and the design awareness to make it usable.</p>
+                <p>This portfolio presents projects that i have completed. The three data science projects explore prediction, image classification, and image generation. The two interface projects gave me space to work with visual storytelling and the details of a user journey. Together, they show how I am developing both the analytical skills to evaluate a solution and the design awareness to make it usable.</p>
               </div>
               <a href="#index" className="mt-6 inline-flex items-center gap-2 font-mono text-xs uppercase text-mute transition-colors hover:text-accent">Explore the work <ArrowDown className="size-3.5" /></a>
             </div>
